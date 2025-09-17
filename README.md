@@ -66,7 +66,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/zerabruck"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/zerabruck"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:robelfekadu@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:zerabruckm@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <div align="center">
