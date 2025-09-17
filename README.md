@@ -75,6 +75,6 @@
 
 ---
 
-### 🧑‍💻 Fun Fact: I’m currently exploring AI & Machine Learning!
+### 🧑‍💻 : I’m currently exploring healthcare systems for low-resource hospitals, with a focus on Bahmni.
 
 --- 
