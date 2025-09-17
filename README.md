@@ -2,7 +2,7 @@
 
 # Hello World!
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/zerabruck/zerabruck/master/Name.svg" alt="Zerabruck Muluneh" />
+  <img src="https://raw.githubusercontent.com/zerabruck/zerabruck/main/Name.svg" alt="Zerabruck Muluneh" />
 </h1>
 
 ### Senior Software Engineer 
