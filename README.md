@@ -11,10 +11,6 @@
   <h2>Welcome to My GitHub Profile!</h2>
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zerabruck&show_icons=true&theme=dracula" alt="GitHub Stats" height="180px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerabruck&layout=compact&theme=dracula" alt="Top Languages" height="180px">
-</p>
 
 ---
 
